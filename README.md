@@ -1,10 +1,5 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=👋+你好，我是+yepys;Welcome+to+my+GitHub+profile!;Coding+with+passion+%26+creativity!" alt="Typing SVG" />
 
-<!-- 访问计数器 -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yepys&color=blueviolet&style=flat-square&label=访问量" alt="访问计数器" />
-</div>
-
 ## 🧑‍💻 关于我
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
